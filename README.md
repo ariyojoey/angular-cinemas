@@ -1,3 +1,6 @@
+A movie app that's a database of movie series.
+
+
 # MovieApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
